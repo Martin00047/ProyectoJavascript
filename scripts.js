@@ -1,7 +1,7 @@
 //valor del ticket
 const ticket = 200;
 
-//descuentos
+//descuentos para diferentes clientes
 
 let descEstudiante = 0.80;
 let descTrainee = 0.50;
